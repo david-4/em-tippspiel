@@ -1,0 +1,38 @@
+{
+  "A": {
+    "one": "Frankreich",
+    "two": "Rumänien",
+    "three": "Albanien",
+    "four": "Schweiz"
+  },
+  "B": {
+    "one" : "England",
+    "two" : "Russland",
+    "three" : "Wales",
+    "four" : "Slowakei"
+  },
+  "C": {
+    "one" : "Deutschland",
+    "two" : "Ukraine",
+    "three" : "Polen",
+    "four" : "Nordirland"
+  },
+  "D": {
+    "one" : "Spanien",
+    "two" : "Tschechien",
+    "three" : "Türkei",
+    "four" : "Kroatien"
+  },
+  "E": {
+    "one" : "Belgien",
+    "two" : "Italien",
+    "three" : "Irland",
+    "four" : "Schweden"
+  },
+  "F": {
+    "one" : "Portugal",
+    "two" : "Island",
+    "three" : "Österreich",
+    "four" : "Ungarn"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "A": {
+    "gameOne": {
+      "first": "one",
+      "second": "two"
+    },
+    "gameTwo": {
+      "first": "three",
+      "second": "four"
+    },
+    "gameThree": {
+      "first": "two",
+      "second": "four"
+    },
+    "gameFour": {
+      "first": "one",
+      "second": "three"
+    },
+    "gameFive": {
+      "first": "two",
+      "second": "three"
+    },
+    "gameSix": {
+      "first": "four",
+      "second": "one"
+    }
+  },
+  "B": {
+    "gameOne": {
+      "first": "three",
+      "second": "four"
+    },
+    "gameTwo": {
+      "first": "one",
+      "second": "two"
+    },
+    "gameThree": {
+      "first": "two",
+      "second": "four"
+    },
+    "gameFour": {
+      "first": "one",
+      "second": "three"
+    },
+    "gameFive": {
+      "first": "four",
+      "second": "one"
+    },
+    "gameSix": {
+      "first": "two",
+      "second": "three"
+    }
+  },
+  "C": {
+    "gameOne": {
+      "first": "three",
+      "second": "four"
+    },
+    "gameTwo": {
+      "first": "one",
+      "second": "two"
+    },
+    "gameThree": {
+      "first": "two",
+      "second": "four"
+    },
+    "gameFour": {
+      "first": "one",
+      "second": "three"
+    },
+    "gameFive": {
+      "first": "two",
+      "second": "three"
+    },
+    "gameSix": {
+      "first": "four",
+      "second": "one"
+    }
+  },
+  "D": {
+    "gameOne": {
+      "first": "three",
+      "second": "four"
+    },
+    "gameTwo": {
+      "first": "one",
+      "second": "two"
+    },
+    "gameThree": {
+      "first": "two",
+      "second": "four"
+    },
+    "gameFour": {
+      "first": "one",
+      "second": "three"
+    },
+    "gameFive": {
+      "first": "two",
+      "second": "three"
+    },
+    "gameSix": {
+      "first": "four",
+      "second": "one"
+    }
+  },
+  "E": {
+    "gameOne": {
+      "first": "three",
+      "second": "four"
+    },
+    "gameTwo": {
+      "first": "one",
+      "second": "two"
+    },
+    "gameThree": {
+      "first": "two",
+      "second": "four"
+    },
+    "gameFour": {
+      "first": "one",
+      "second": "three"
+    },
+    "gameFive": {
+      "first": "two",
+      "second": "three"
+    },
+    "gameSix": {
+      "first": "four",
+      "second": "one"
+    }
+  },
+  "F": {
+    "gameOne": {
+      "first": "three",
+      "second": "four"
+    },
+    "gameTwo": {
+      "first": "one",
+      "second": "two"
+    },
+    "gameThree": {
+      "first": "one",
+      "second": "three"
+    },
+    "gameFour": {
+      "first": "two",
+      "second": "four"
+    },
+    "gameFive": {
+      "first": "two",
+      "second": "three"
+    },
+    "gameSix": {
+      "first": "four",
+      "second": "one"
+    }
+  }
+}
